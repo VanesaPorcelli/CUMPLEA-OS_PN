@@ -92,7 +92,7 @@ body {
 
 /* INDEX*/
 .hero {
-  background-image: url("/assets/hero1.png");
+  background-image: url("https://img.freepik.com/vector-gratis/fondo-colorido-arco-iris-acuarela_125540-151.jpg?w=740&t=st=1677334723~exp=1677335323~hmac=a099b8b25e2ff44f28325d1fbcce7ffcd908d76c8c2ffb5f497cbe43b5481c95");
   object-fit: cover;
   display: flex;
   align-items: center;
