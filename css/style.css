@@ -92,7 +92,7 @@ body {
 
 /* INDEX*/
 .hero {
-  background-image: url("/assets/hero1.jpg");
+  background-image: url("/assets/hero1.png");
   object-fit: cover;
   display: flex;
   align-items: center;
