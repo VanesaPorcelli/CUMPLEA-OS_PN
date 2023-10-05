@@ -105,7 +105,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  height: 45vh;
+  height: 40vh;
   width: 100%;
   padding-right: 0px;
 }
@@ -131,3 +131,5 @@ body {
 .pie-pagina .grupo-2 small {
   font-size: 15px;
 }
+
+
